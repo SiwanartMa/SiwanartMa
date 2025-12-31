@@ -1,16 +1,17 @@
 ## Hi there 👋
+I'm Siwanart, a bioinformatician based in the UK.
+I develop pipelines to automate complex omics data analysis.
 
-<!--
-**SiwanartMa/SiwanartMa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tech stack (order by experience and confidence)**
 
-Here are some ideas to get you started:
+**My biology background**  
+Before I became a bioinformatician, I was a wet lab researcher in gene therapy and gene editing for 3 years.
+I develop gene therapy treatments for regenerative medicine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**How to reach me**
+Please contact me via [LinkedIn](www.linkedin.com/in/siwanart-ma)
+
+**Fun facts**
+- I always order the plain flavour of every food
+- I am 50% Taiwanese and 50% Thai
+- Hobbies: volleyball, gym, cooking
