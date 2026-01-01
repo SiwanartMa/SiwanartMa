@@ -2,8 +2,11 @@
 I'm Siwanart, a bioinformatician based in the UK.
 I develop pipelines to automate complex omics data analysis.
 
-**Tech stack (order by experience and confidence)**
-
+**Tech stack (ordered by experience and confidence)**
+1. Pipeline development
+2. Machine Learning
+3. Databases and API
+   
 **My biology background**  
 Before I became a bioinformatician, I was a wet lab researcher in gene therapy and gene editing for 3 years.
 I develop gene therapy treatments for regenerative medicine.
