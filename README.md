@@ -17,7 +17,7 @@ Proficient in Python, R, Nextflow, Bash (shell scripting), and SQL (MySQL) for b
 Three years of wet-lab research in gene therapy, providing a strong foundation in molecular biology and cross-functional collaboration with wet-lab teams.
 
 **How To Reach Me**  
-Please contact me via [LinkedIn](www.linkedin.com/in/siwanart-ma)
+Please contact me via [LinkedIn](https://www.linkedin.com/in/siwanart-sami-ma/)
 
 **Fun Facts**
 - I always order the plain flavour of every food.
