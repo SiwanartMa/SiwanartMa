@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Siwanart, a UK-based bioinformatician specialising in automating next-generation sequencing (NGS) data analysis pipelines for biomedical research in academia and biotech. I develop workflows to analyse complex omics data and leverage machine learning for genomic insights, bridging computational analysis with a strong background in molecular biology.
+I'm Siwanart (Sami), a UK-based bioinformatician specialising in automating next-generation sequencing (NGS) data analysis pipelines for biomedical research in academia and biotech. I develop workflows to analyse complex omics data and leverage machine learning for genomic insights, bridging computational analysis with a strong background in molecular biology.
 
 **Programming Languages**  
 Proficient in Python, R, Nextflow, Bash (shell scripting), and SQL (MySQL) for bioinformatics scripting, data analysis, and pipeline development.
